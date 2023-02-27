@@ -8,10 +8,10 @@ Also, project website's UI has renewed. Therefore, It may not work properly.
 
 
 ✨ How it works ✨
-- Opens the target website
-- Logs in in order to see prices
+- Sends request to the website
+- Login to see prices
 - Navigates predefined categories
-- Enters in product details
-- Gets data
-- Organizes different datas and writes them into xlsx file
+- Reaches product details
+- Gathers them via XPath address
+- Organizes different data and writes them into xlsx file
 - Cleans unnecessary files after the process done.
